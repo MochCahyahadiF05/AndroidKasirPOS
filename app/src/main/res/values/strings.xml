@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">KasirPOS</string>
+    <string name="login">Login</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
 </resources>
